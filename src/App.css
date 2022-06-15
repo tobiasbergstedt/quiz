@@ -1,0 +1,10 @@
+main {
+	min-height: calc(100vh - 100px - 2rem);
+	padding: 1rem;
+}
+
+.header {
+	background-color: white;
+	color: #333;
+	height: 100px;
+}
